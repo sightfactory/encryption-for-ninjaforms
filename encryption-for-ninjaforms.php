@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: VisualWP Encryption for Ninja Forms
+ * Plugin Name: Encryption for Ninja Forms
  * Description: Encrypts selected fields on form submission
  * Author: Sightfactory
  * Author URI: https://www.sightfactory.com
